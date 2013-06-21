@@ -1,0 +1,20 @@
+[
+  {
+    "name":"Kumbaya",
+    "image_prefix":"kumbaya",
+    "desciption":"An application for music discovery via Bandcamp",
+    "image_count":3
+  },
+  {
+    "name":"Pinchit",
+    "image_prefix":"pinchit",
+    "desciption":"A GPS- and MapKit-enabled iPhone application for finding local deals",
+    "image_count":4
+  },
+  {
+    "name":"DoubleStamp",
+    "image_prefix":"doublestamp",
+    "desciption":"A GPS- and MapKit-enabled iPhone application for customer loyalty",
+    "image_count":4
+  }
+]
